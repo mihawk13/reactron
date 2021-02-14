@@ -16,11 +16,11 @@ Reactron is a tiny Electron project configured to work with React as frontend. T
 
 Installation
 
-<code>\$ npm install</code>
+<code>\$ yarn</code>
 
 Developing
 
-<code>\$ npm start</code>
+<code>\$ yarn start</code>
 
 ## Important
 
@@ -34,15 +34,15 @@ The backend and frontend code must be separated.
 
 Windows
 
-<code>\$ npm run dist:win</code>
+<code>\$ yarn run dist:win</code>
 
 Linux
 
-<code>\$ npm run dist:linux</code>
+<code>\$ yarn run dist:linux</code>
 
 Mac
 
-<code>\$ npm run dist:mac</code>
+<code>\$ yarn run dist:mac</code>
 
 ## License
 
